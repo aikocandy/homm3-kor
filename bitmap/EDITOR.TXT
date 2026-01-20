@@ -9,7 +9,7 @@ General
 %s의 특성
 이벤트 설정
 (없음)
-무작위적
+랜덤
 미상
 배낭
 경험치
@@ -82,8 +82,8 @@ General
 (어떤 마을이나)
 "%s (%d, %d, %d)"
 "%s, %s"
-무작위적 괴물
-무작위적 괴물들
+랜덤 괴물
+랜덤 괴물들
 전사
 건축가
 탐험가
@@ -94,7 +94,7 @@ General
 계속하시겠습니까?"
 선택 가능한 영웅이 없습니다!
 지도상에 플레이어가 한명도 없습니다.
-무작위적 마을
+랜덤 마을
 %d 팀
 """지도상에 플레이어가 한명도 없습니다.""
 플레이어에 소속된 마을이나 영웅이 최소한 하나 이상 있어야만 지도에서 게임을 시작할 수 있습니다.
@@ -587,7 +587,7 @@ Map Specs Special Loss Condition Page
 Monster Properties General Page
 종류
 수량
-&무작위
+&랜덤
 &설정
 &수량 변화 없음
 배치
@@ -651,14 +651,14 @@ Options Dialog
 Resource Properties General Page
 종류
 수량
-&무작위
+&랜덤
 &설정
 "주의:  자원이 금일 경우에 한해서, 수량은 100단위로 표시된다."
 사용자 &메시지
 "주의: 만약 당신이 경비병들을 임의로 지정했을 경우, 예/아니오 형식의 사용자 지정(커스텀) 메시지를 추가해야 한다. 이 메시지에서 예를 지정하면 수비병들과 싸워야 한다."
 Scholar Properties Dialog
 보상
-&무작위
+&랜덤
 &일차 기술
 &이차 기술
 마&법
@@ -676,7 +676,7 @@ Seer's Hut Properties Dialog
 %s에게 귀속
 Shrine Properties Dialog
 %d레벨 마법
-&무작위
+&랜덤
 &설정
 Sign Properties Dialog
 &메시지

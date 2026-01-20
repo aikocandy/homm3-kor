@@ -1,0 +1,169 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+General
+히어로즈 오브 마이트 앤 매직® III 캠페인 에디터
+"? 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."
+버젼 %s
+히어로즈 3 캠페인 파일 (*.h3c)
+히어로즈 3 캠페인
+캠페인 에디터를 사용하려면 디스플레이를 최소한 16비트 컬러로 맞춰야 합니다.
+디버그 빌드
+릴리즈 빌드
+OK
+캠페인 에디터에 대해
+플레이어 %d (%s)
+랜덤 타운
+"""%s""이(가) 잘못된 형식이거나 손상되었습니다. 사용할 수 없습니다."
+"""%s""을(를) 플레이할 수 없습니다. 사용할 수 없습니다."
+"""%s""이(가) 버전이 맞지 않습니다. 사용할 수 없습니다."
+"""%s""이(가) 구버젼입니다. 사용할 수 없습니다."
+"캠페인 파일 버전 오류
+
+파일 버젼 = %d
+현재 버젼 = %d"
+잘못되거나 손상된 캠페인 파일!
+"%s이(가) 이미 존재합니다.
+교체하시겠습니까?"
+구성요소
+가장 강력한 영웅
+생성된 영웅
+그리고
+랜덤 영웅
+(없음)
+쉬움
+보통
+어려움
+숙련자
+불가능
+"히어로즈 3 맵 파일 (*.h3m)
+.h3m"
+프롤로그
+&프롤로그가 있습니다.
+에필로그
+&에필로그가 있습니다.
+시나리오 구성요소
+%s 마법
+%s을(를) %s에게 주기
+%s을(를) 시작 마을에 짓기
+%d %s 받기
+취소
+도움말
+"텍스트 파일 (*.txt)
+.txt"
+"""%s""을(를) 사용할 수 없습니다."
+"""%s""을(를) 불러오는데 성공했습니다."
+이름
+설명
+오른쪽 클릭 텍스트
+프롤로그
+에필로그
+Campaign Properties Dialog
+캠페인 구성요소
+맵:
+&이름:
+&설명
+시나리오 &난이도 선택 가능
+&테마 음악:
+캠페인 버전
+&아마겟돈즈 블레이드
+&쉐도우 오브 데쓰
+Edit Hero Crossover Option Dialog
+영웅 교차 옵션
+&자원 시나리오:
+&플레이어 위치:
+Edit Starting Bonus Type Dialog
+시작 보너스 편집
+보너스 종류 결정:
+&마법
+&유닛
+&건물
+&아티팩트
+마&법 스크롤
+&일차 기술
+이&차 기술
+&자원
+받는쪽:
+아티팩트:
+유닛 종류:
+수량:
+건물:
+마법:
+공격력:
+방어력:
+마법력:
+지력:
+이차 기술:
+숙달:
+자원 종류:
+Edit Starting Hero Option Dialog
+시작 영웅 편집
+&영웅 고르기:
+&플레이어 위치:
+New Campaign Dialog
+새 캠페인
+캠페인 &맵:
+캠페인 버전
+&아마겟돈즈 블레이드
+&쉐도우 오브 데쓰
+Scenario Properties Crossover Page
+교차 옵션
+교차 영웅들이 보유하는 것:
+&경험치
+&일차 기술
+이&차 기술
+&마법
+&아티팩트
+&유닛 종류:
+모&두
+&없음
+아&티팩트 교차:
+Scenario Properties General Page
+일반
+지역 이름:
+지역 &색깔:
+시나리오 이름:
+맵 파일
+&불러오기
+새로&고침
+&추출
+&제거
+기본 &난이도:
+&선행 조건:
+지&역 오른쪽 클릭 텍스트:
+Scenario Properties Prologue Page
+동&영상:
+음&악:
+&메시지:
+Scenario Properties Starting Options Page
+시작 옵션
+시작 옵션들:
+&시작 보너스 옵션
+영웅 &교차 옵션
+시작 &영웅 옵션
+&플레이어 위치
+시작 보너스 &옵션
+&추가
+&편집
+&제거
+자원 시나리오
+영웅
+Main Menu Text
+&파일
+&편집	
+&도움말	
+File Menu	
+&새파일	Ctrl+N
+&열기	Ctrl+O
+&저장	Ctrl+S
+저장 &새이름으로	
+추&출 텍스트	
+&삽입 텍스트	
+&새로고침 시나리오 맵	Ctrl+R
+&추출 시나리오 맵	Ctrl+E
+최근 파일	
+나&가기	
+Edit Menu	
+&캠페인 구성요소	Ctrl+Enter
+&시나리오 구성요소	Enter
+Help Menu
+&도움말 목차
+&캠페인 에디터에 관하여

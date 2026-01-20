@@ -1,0 +1,46 @@
+Hero Window
+공격력
+방어력
+마법력
+지력
+{특수능력}
+{경험치}
+{마법 점수}
+"모험
+일지"
+"영웅
+해고"
+Overview Window
+매일 금수입
+Shipyard Window
+새로운 배 구입
+소요자원
+Thieves Guild Window
+1등
+2등
+3등
+4등
+5등
+6등
+7등
+8등
+마을 숫자
+영웅 숫자
+금
+목재와 철광석
+"수은, 유황, 수정, 보석"
+발견한 오벨리스크
+아티팩트
+군사력
+수입
+최강의 영웅
+개성
+최강의 유닛
+Tavern Window
+선술집
+고용 가능한 영웅
+Town Gate Window
+타운 게이트
+게이트를 통해 갈 도시 선택
+Blacksmith Window
+소요자원

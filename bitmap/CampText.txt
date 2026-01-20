@@ -1,0 +1,172 @@
+//Campaign Map Names
+여왕 폐하 만세
+해방
+아버지를 위한 노래
+던젼과 악마들
+국왕 폐하 만세
+전리품
+불만의 씨앗
+브라카다
+아이슬랜즈
+크류로드
+니곤
+타탈리아
+아마겟돈
+학살
+바바리안의 탄생
+새로운 시작
+엘릭서 오브 라이프
+네크로만서의 부흥
+저주받은 동맹
+사악한 유령
+
+
+//Good 1 Map Region Names
+사우스 포트
+천사의 문
+그리핀 계곡
+
+
+//Good 2 Map Region Names
+배틀스테드
+프로스트랜드
+마쉬랜드와 힐브릿지
+그레인리치와 파이어코스트
+
+
+//Good 3 Map Region Names
+포레스트로우
+"에머랄드 힐, 스트롱윌로우, 우드 그로브, 포레스트베리"
+마블 가든
+
+
+//Evil 1 Map Region Names
+라이언포인트
+그레인리치
+배틀스테드
+파이어코스트
+사우스포트
+천사의 문
+그리핀 절벽
+
+
+//Evil 2 Map Region Names
+ 마블 가든
+ 에메랄드 힐
+스트롱윌로우와 우드그로브
+"포레스트던, 포레스트베리, 포레스트로우"
+
+
+//Neutral 1 Map Region Names
+마쉬랜드
+마인웰
+힐브릿지
+
+
+//Secret 1 Map Region Names
+클로버필드
+모스우드
+포레스트데일
+
+
+// Bracada Map Region Names
+브라카다 A
+브라카다 B
+브라카다 C
+브라카다 D
+
+
+// Islands Map Region Names
+아이슬랜즈 A
+아이슬랜즈 B
+아이슬랜즈 C
+아이슬랜즈 D
+
+
+// Krewlod Map Region Names
+크류로드 A
+크류로드 B
+크류로드 C
+크류로드 D
+
+
+// Nighon Map Region Names
+니곤 A
+니곤 B
+니곤 C
+니곤 D
+
+
+// Tatalia Map Region Names
+타탈리아 A
+타탈리아 B
+타탈리아 C
+
+
+// Armageddon Map Region Names
+아마겟돈 A
+아마겟돈 B
+아마겟돈 C
+아마겟돈 D
+아마겟돈 E
+아마겟돈 F
+아마겟돈 G
+아마겟돈 H
+
+
+// Hack and Slash Region Names
+학살 A
+학살 B
+학살 C
+학살 D
+
+
+// Birth of a Barbarian Region Names
+바바리안의 탄생 A
+바바리안의 탄생 B
+바바리안의 탄생 C
+바바리안의 탄생 D
+바바리안의 탄생 E
+
+
+// New Beginning Region Names
+새로운 시작 A
+새로운 시작 B
+새로운 시작 C
+새로운 시작 D
+
+
+// Elixir of Life Region Names
+엘릭서 오브 라이프 A
+엘릭서 오브 라이프 B
+엘릭서 오브 라이프 C
+엘릭서 오브 라이프 D
+
+
+// Rise of the Necromancer Region Names
+네크로만서의 부흥 A
+네크로만서의 부흥 B
+네크로만서의 부흥 C
+네크로만서의 부흥 D
+
+
+// Unholy Alliance Region Names
+저주받은 동맹 A
+저주받은 동맹 B
+저주받은 동맹 C
+저주받은 동맹 D
+저주받은 동맹 E
+저주받은 동맹 F
+저주받은 동맹 G
+저주받은 동맹 H
+저주받은 동맹 I
+저주받은 동맹 J
+저주받은 동맹 K
+저주받은 동맹 L
+
+
+// Specter of Power Region Names
+사악한 유령 A
+사악한 유령 B
+사악한 유령 C
+사악한 유령 D

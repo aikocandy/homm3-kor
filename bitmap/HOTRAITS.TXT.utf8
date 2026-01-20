@@ -1,0 +1,158 @@
+	1st Creature Stack			2nd Creature Stack			3rd Creature Stack		
+Name	Low	High	Type (reference only)	Low	High	Type (reference only)	Low	High	Type (reference only)
+오린	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+발래스카	4	7	LightCrossbowman	4	7	LightCrossbowman	4	7	LightCrossbowman
+에드릭	10	20	Pikeman	2	3	Griffin	2	3	Griffin
+실비아	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+하트 경	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+소샤	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+크리스챤	10	20	Pikeman	1	1	Ballista	2	3	Griffin
+티리스	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+라이언	10	20	Pikeman	1	1	FirstAidTent	2	3	Griffin
+아델라	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+커스버트	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+아델레이드	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+잉엄	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+사냐	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+로이니스	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+케이틀린	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+메팔라	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+우프레틴	3	5	Dwarf	3	5	Dwarf	3	5	Dwarf
+제노바	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+라일란드	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+토그림	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+이보르	12	24	Centaur	3	6	WoodElf	3	6	WoodElf
+클랜시	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+키레	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+코로니어스	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+울란드	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+엘리샤	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+젬	12	24	Centaur	1	1	FirstAidTent	3	6	WoodElf
+말콤	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+멜로디아	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+알라가	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+에어리스	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+피케드람	3	5	StoneGargoyle	3	5	StoneGargoyle	3	5	StoneGargoyle
+테인	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+죠세핀	30	40	ApprenticeGremlin	2	2	IronGolem	2	3	IronGolem
+닐라	30	40	ApprenticeGremlin	4	4	StoneGargoyle	2	3	IronGolem
+토로사	30	40	ApprenticeGremlin	1	1	Ballista	2	3	IronGolem
+파프너	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+리사	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+이오나	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+아스트럴	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+헤일론	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+세레나	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+다레미스	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+테오도러스	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+솔미르	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+사이라	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+아인	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+피오나	15	25	Imp	3	4	HellHound	3	4	HellHound
+라쉬카	15	25	Imp	4	7	Gog	3	4	HellHound
+마리우스	15	25	Imp	4	7	Gog	3	4	HellHound
+이그나티어스	15	25	Imp	15	25	Imp	15	25	Imp
+옥타비아	15	25	Imp	4	7	Gog	3	4	HellHound
+칼	4	7	Gog	4	7	Gog	4	7	Gog
+파이어	15	25	Imp	1	1	Ballista	3	4	HellHound
+니무스	15	25	Imp	4	7	Gog	3	4	HellHound
+에이든	15	25	Imp	4	7	Gog	3	4	HellHound
+크시론	15	25	Imp	4	7	Gog	3	4	HellHound
+액시스	15	25	Imp	4	7	Gog	3	4	HellHound
+올레마	15	25	Imp	4	7	Gog	3	4	HellHound
+칼리드	15	25	Imp	4	7	Gog	3	4	HellHound
+애쉬	15	25	Imp	4	7	Gog	3	4	HellHound
+지다르	15	25	Imp	4	7	Gog	3	4	HellHound
+크사르팍스	15	25	Imp	4	7	Gog	3	4	HellHound
+스트레이커	4	6	Zombie	4	6	Zombie	4	6	Zombie
+보키얼	20	30	Skeleton	4	6	Zombie	4	6	Wight
+모운더	20	30	Skeleton	4	6	Zombie	4	6	Wight
+차르나	20	30	Skeleton	4	6	Wight	4	6	Wight
+타미카	20	30	Skeleton	4	6	Zombie	4	6	Wight
+이스라	20	30	Skeleton	4	6	Zombie	4	6	Wight
+클라비어스	20	30	Skeleton	4	6	Zombie	4	6	Wight
+갈스란	20	30	Skeleton	20	30	Skeleton	20	30	Skeleton
+셉티나	20	30	Skeleton	4	6	Zombie	4	6	Wight
+아이슬린	20	30	Skeleton	4	6	Zombie	4	6	Wight
+산드로	20	30	Skeleton	4	6	Zombie	4	6	Wight
+님부스	20	30	Skeleton	4	6	Zombie	4	6	Wight
+산트	20	30	Skeleton	4	6	Zombie	4	6	Wight
+크사이	20	30	Skeleton	4	6	Zombie	4	6	Wight
+비도미나	20	30	Skeleton	4	6	Zombie	4	6	Wight
+나가쉬	20	30	Skeleton	4	6	Zombie	4	6	Wight
+로렐라이	4	6	Harpy	4	6	Harpy	4	6	Harpy
+알라크	30	40	Troglodyte	1	1	Ballista	3	4	Beholder
+데이스	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+아지트	30	40	Troglodyte	3	4	Beholder	3	4	Beholder
+다마콘	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+거너	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+싱카	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+샤크티	30	40	Troglodyte	30	40	Troglodyte	30	40	Troglodyte
+알라마	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+재가	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+말레키스	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+재다이트	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+게온	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+데머	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+세핀로스	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+다크스톤	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+요그	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+거니슨	15	25	Goblin	1	1	Ballista	4	6	Orc
+자바카스	15	25	Goblin	4	6	Orc	4	6	Orc
+시바	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+그레친	15	25	Goblin	15	25	Goblin	15	25	Goblin
+크렐리온	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+크랙 핵	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+타이락소	5	7	GoblinWolfRider	5	7	GoblinWolfRider	5	7	GoblinWolfRider
+거드	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+베이	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+데싸	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+테렉	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+쥬빈	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+군둘라	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+오리스	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+사우럭	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+브론	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+드라콘	10	20	Gnoll	10	20	Gnoll	10	20	Gnoll
+와이스탄	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman
+타자르	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+알킨	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+코백	10	20	Gnoll	2	4	SerpentFly	2	4	DragonFly
+거울프	10	20	Gnoll	1	1	Ballista	2	4	SerpentFly
+브로길드	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+머란다	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+로식	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+보이	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+버디쉬	10	20	Gnoll	1	1	FirstAidTent	2	4	SerpentFly
+메리스트	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+스티그	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+안드라	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+티바	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+파시스	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+튜나	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+이그니싸	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+라쿠스	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+모니어	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+에르다몬	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+파이우	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+칼트	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+루나	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+브리싸	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+씨엘레	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+라벤타	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+인테우스	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+에나인	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+겔레어	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+그린단	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+멀리치 경	10	20	Pikeman	4	7	Archer	2	3	Griffin
+아드리엔	10	20	Gnoll	4	7	Lizardman	2	4	Serpent Fly
+캐서린	10	20	Pikeman	4	7	Archer	2	3	Griffin
+드라콘	6	6	Enchanters	3	3	Enchanters	1	1	Enchanters
+겔루	6	6	Sharpshooters	3	3	Sharpshooters	1	1	Sharpshooters
+킬고르	15	25	Goblins	5	7	Goblin Wolf Rider	4	6	Orc
+하트 경	20	30	Skeleton	4	6	Zombie	4	6	Wight
+뮤테어	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+롤랜드	10	20	Pikeman	4	7	Archer	2	3	Griffin
+뮤테어 드레이크	10	20	Pikeman	4	7	Archer	2	3	Griffin
+보라구스	10	20	Pikeman	4	7	Archer	2	3	Griffin
+제론	10	20	Pikeman	4	7	Archer	2	3	Griffin
